@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Sara",
+      "empresa": "diario uno",
+      "telefono": "02614175490",
+      "email": "juanquibar@gmail.com",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
