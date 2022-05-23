@@ -7,6 +7,14 @@
       "email": "juanquibar@gmail.com",
       "notas": "",
       "id": 4
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "diario uno",
+      "telefono": "02614175490",
+      "email": "juanquibar@gmail.com",
+      "notas": "",
+      "id": 5
     }
   ]
 }
