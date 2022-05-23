@@ -8,8 +8,6 @@ const Inicio = () => {
   useEffect (() => {
     const obtenerClientesApi = async () => {
       try {
-        // const url = "https://my-json-server.typicode.com/JuanQuibar/api-crm/clientes"
-        //json-server --watch db.json --port 4000
         const url = import.meta.env.VITE_API_URL
         const respuesta = await fetch(url)
         const resultado = await respuesta.json()
